@@ -24,7 +24,9 @@ Follow the below settings for VS Code -
 {
   // Theme
   "workbench.colorTheme": "Dracula",
-
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 16,
+  
   // config related to code formatting
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
